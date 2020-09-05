@@ -1,5 +1,5 @@
 # Freeze Plugin
- This is a [**Spigot**](https://www.spigotmc.org/wiki/buildtools/){:target="_blank"} Minecraft server plugin that allows you to freeze players in place. The plugin was originally made for [**Spigot**](https://www.spigotmc.org/wiki/buildtools/){:target="_blank"}, but it also works with [**CraftBukkit**](https://getbukkit.org/download/craftbukkit){:target="_blank"} and [**Paper**](https://papermc.io/){:target="_blank"} (**recommended**).
+ This is a [**Spigot**](https://www.spigotmc.org/wiki/buildtools/) Minecraft server plugin that allows you to freeze players in place. The plugin was originally made for [**Spigot**](https://www.spigotmc.org/wiki/buildtools/), but it also works with [**CraftBukkit**](https://getbukkit.org/download/craftbukkit) and [**Paper**](https://papermc.io/) (**recommended**).
 
 # About
 This plugin allows you to freeze players in place and 
@@ -34,5 +34,5 @@ Here is the list of tested versions for this plugin:
 (some features work only on newer versions of the server, the plugin might not work on newest versions until update)
 
 # Download
-You can download this plugin  [**here**](https://www.spigotmc.org/){:target="_blank"} (there are some ads, please turn off the adblock, this would help me a lot)
+You can download this plugin  [**here**](https://www.spigotmc.org/) (there are some ads, please turn off the adblock, this would help me a lot)
 If the hypertext doesn't work just copy that to your browser: https://www.spigotmc.org/
