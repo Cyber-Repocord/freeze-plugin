@@ -1,0 +1,8 @@
+main: me.maxgrzy.freezeplugin.FreezePlugin
+version: 1.0-BETA
+name: FreezePlugin
+commands:
+  freeze:
+    permission: freezeplugin.freeze
+  unfreeze:
+    permission: freezeplugin.unfreeze
