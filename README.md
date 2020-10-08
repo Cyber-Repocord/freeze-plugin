@@ -11,13 +11,16 @@ This plugin allows you to freeze players in place
 2.  ```freezeplugin.unfreeze``` - allows you to unfreeze people
 3.  ```freezeplugin.bypass``` - with this permission you can bypass being frozen
 4.  ```freezeplugin.chatwhilefrozen``` - you can't chat while being frozen, but with this permission you can
-5.  ```freezeplugin.commandswhilefrozen``` - you can't type commands while being frozen (except for /unfreeze), but with this permission you can
-6.  ```freezeplugin.operator``` - with this permission you can change all the settings (e.g. the /freezeplugin gui toggle)
+5.  ```freezeplugin.commandswhilefrozen``` - you can't type commands while being frozen (except for ```/unfreeze```), but with this permission you can
+6.  ```freezeplugin.operator``` - with this permission you can change all the settings (e.g. the ```/freezeplugin gui toggle```)
 
   
 
 # How to use
 Download the .jar file (link below) and run your Spigot, CraftBukkit or Paper server, and wait for it to generate **plugins** folder. Once it's done that put the file into the folder and reload you server (```/reload``` command) (if that doesn't work you'll have to restart it with ```/stop``` and start it over again). The plugin should notify the console that it has been enabled for the first time and you'll be good to go!
+
+Settings:
+- ```/freezeplugin gui {true, false or toggle}```
 
   
 
