@@ -20,7 +20,7 @@ This plugin allows you to freeze players in place
 Download the .jar file (link below) and run your Spigot, CraftBukkit or Paper server, and wait for it to generate **"plugins"** folder. Once it's done put the file into the folder and reload you server (```/reload``` command) (if that doesn't work you'll have to restart it with ```/stop``` and start it over again). The plugin should notify the console that it has been enabled for the first time and you'll be good to go! If doesn't work go to section **Troubleshooting**
 
 Settings:
-- ```/freezeplugin gui {true, false or toggle}```
+- ```/freezeplugin settings gui {true, false or toggle}```
 
   
 
