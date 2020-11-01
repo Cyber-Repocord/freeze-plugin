@@ -3,6 +3,7 @@
 This is a [**Spigot**](https://www.spigotmc.org/wiki/buildtools/) Minecraft server plugin that allows you to freeze players in place. The plugin was originally made for [**Spigot**](https://www.spigotmc.org/wiki/buildtools/), but it also works with [**CraftBukkit**](https://getbukkit.org/download/craftbukkit) and [**PaperMC**](https://papermc.io/) (**recommended**).
 
 # About
+**THE PLUGIN DOESN'T HAVE SOME FEATURES YET (I WIIL BE ADDING THESE SOON)**
 This plugin allows you to freeze players in place
 
 
